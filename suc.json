@@ -2,9 +2,9 @@
     "lv": "1.0.0",
     "fu": "0",
     "fum": "test",
-    "fi": "0",
+    "fi": "1",
     "fir": "0",
     "filt": "1",
-    "fim": "test",
+    "fim": "itms-apps://itunes.apple.com/app/id1367152987",
     "fiu": "a"
 }
